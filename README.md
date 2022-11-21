@@ -26,4 +26,4 @@ Technical clarification
 
 
 Expected outcome
-A repository link to your GitHub account from where we can clone the solution and run it with little-to-zero effort.
+A repository link to your GitHub account from where we can clone the solution and run it with little-to-zero effort..
